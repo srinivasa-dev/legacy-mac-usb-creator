@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+__pycache__/
+*.dmg
+*.pkg
+*.chunklist
+.cache/
+downloads/
+build/
+dist/
+/Volumes/
